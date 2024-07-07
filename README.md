@@ -36,19 +36,19 @@ where f(t, d) is the frequency of term \( t \) in document \( d \).
 
 ### Inverse Document Frequency (IDF)
 
-${IDF}(t) = \log_{10}\left(\frac{N}{n(t)}\right) $
+## ${IDF}(t) = \log_{10}\left(\frac{N}{n(t)}\right) $ ##
 
 where \( N \) is the total number of documents, and n(t) is the number of documents containing term \( t \).
 
 ### TF-IDF
 
-${TF-IDF}(t, d) = \text{TF}(t, d) \times \text{IDF}(t)$
+## ${TF-IDF}(t, d) = \text{TF}(t, d) \times \text{IDF}(t)$ ##
 
 ### Cosine Similarity
 
-$cos(\theta) = \frac{\vec{A} \cdot \vec{B}}{\|\vec{A}\| \|\vec{B}\|}$
+## $cos(\theta) = \frac{\vec{A} \cdot \vec{B}}{\|\vec{A}\| \|\vec{B}\|}$ ##
 
-where \frac{\|\vec{A}\| \|\vec{B}\|} and {\vec{B}\} are the TF-IDF vectors of the query and the document respectively.
+where A and B are the TF-IDF vectors of the query and the document respectively.
 
 ## Script Explanation
 
