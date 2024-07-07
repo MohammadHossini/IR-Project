@@ -42,11 +42,11 @@ where \( N \) is the total number of documents, and n(t) is the number of docume
 
 ### TF-IDF
 
-$text{TF-IDF}(t, d) = \text{TF}(t, d) \times \text{IDF}(t)$
+${TF-IDF}(t, d) = \text{TF}(t, d) \times \text{IDF}(t)$
 
 ### Cosine Similarity
 
-cos(\theta) = \frac{\vec{A} \cdot \vec{B}}{\|\vec{A}\| \|\vec{B}\|}$
+$cos(\theta) = \frac{\vec{A} \cdot \vec{B}}{\|\vec{A}\| \|\vec{B}\|}$
 
 where \( \vec{A} \) and \( \vec{B} \) are the TF-IDF vectors of the query and the document respectively.
 
