@@ -1,5 +1,7 @@
 # IR-Project
 
+![image](https://github.com/MohammadHossini/IR-Project/assets/106095825/54615004-0839-47a1-8a29-e7f43bfd2e0c)
+
 
 
 ---
