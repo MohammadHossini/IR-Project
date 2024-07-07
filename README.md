@@ -48,7 +48,7 @@ ${TF-IDF}(t, d) = \text{TF}(t, d) \times \text{IDF}(t)$
 
 $cos(\theta) = \frac{\vec{A} \cdot \vec{B}}{\|\vec{A}\| \|\vec{B}\|}$
 
-where \vec{A}\ and \vec{B}\ are the TF-IDF vectors of the query and the document respectively.
+where {\vec{A}\} and {\vec{B}\} are the TF-IDF vectors of the query and the document respectively.
 
 ## Script Explanation
 
