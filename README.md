@@ -1,6 +1,6 @@
 # IR-Project
 
-Sure, I'll provide a detailed explanation of your script along with the necessary formulas. This README will help users understand the functionalities and purpose of the script.
+
 
 ---
 
@@ -30,7 +30,7 @@ Ensure you have these packages installed before running the script.
 
 ### Term Frequency (TF)
 
-${TF}(t, d) = 1 + \log_{10}(f(t, d)) $
+## ${TF}(t, d) = 1 + \log_{10}(f(t, d)) $ ## 
 
 where f(t, d) is the frequency of term \( t \) in document \( d \).
 
@@ -98,6 +98,3 @@ where A and B are the TF-IDF vectors of the query and the document respectively.
 
 This project provides a robust framework for document processing and ranking based on TF-IDF and cosine similarity. It allows for efficient querying and reranking of documents, making it a valuable tool for information retrieval tasks.
 
----
-
-This README should provide clear guidance on how to use and understand the script. You can further customize it based on specific details or requirements of your project.
